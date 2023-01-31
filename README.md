@@ -6,7 +6,8 @@ Starting Page:
 
 First Player Goes:
 
-<img width="505" alt="Screenshot 2023-01-28 at 00 01 51" src="https://user-images.githubusercontent.com/79933498/215909316-3a8edeb6-29c3-40cb-ac77-3af65defc179.png">
+<img width="699" alt="Screenshot 2023-01-31 at 18 54 07" src="https://user-images.githubusercontent.com/79933498/215910546-5cef865f-8ef4-4581-a300-40c1508fbfa6.png">
+
 
 Second Player Goes:
 
