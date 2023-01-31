@@ -1,6 +1,7 @@
 # Pig-Game
 
-Starting Page:\\
+Starting Page: \\
+
 <img width="503" alt="Screenshot 2023-01-28 at 00 00 46" src="https://user-images.githubusercontent.com/79933498/215908718-0041745c-5562-403e-a393-99ddb546da75.png">
 
 First Player Goes:
