@@ -16,4 +16,4 @@ History Records:
 
 <img width="504" alt="Screenshot 2023-01-28 at 00 04 18" src="https://user-images.githubusercontent.com/79933498/215909453-ab6e3726-c569-4ff0-ab0b-85f8da5fee73.png">
 
-Full Code Review Video: https://www.youtube.com/watch?v=zbyDUUEbXuo&ab_channel=AlonaDytynenko
+Code Demo: https://www.youtube.com/watch?v=zbyDUUEbXuo&ab_channel=AlonaDytynenko
